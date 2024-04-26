@@ -31,42 +31,42 @@ function createTrackItem(index, name, duration) {
 var listAudio = [
     {
         name: "1:0",
-        file: "../af/recite/001000.mp3",
+        file: "https://github.com/a-faros/tadabbur/blob/main/af/recite/001000.mp3",
         duration: "00:01"
     },
     {
         name: "1:1",
-        file: "../af/recite/001001.mp3",
+        file: "https://github.com/a-faros/tadabbur/blob/main/af/recite/001001.mp3",
         duration: "00:01"
     },
     {
         name: "1:2",
-        file: "../af/recite/001002.mp3",
+        file: "https://github.com/a-faros/tadabbur/blob/main/af/recite/001002.mp3",
         duration: "00:01"
     },
     {
         name: "1:3",
-        file: "../af/recite/001003.mp3",
+        file: "https://github.com/a-faros/tadabbur/blob/main/af/recite/001003.mp3",
         duration: "00:01"
     },
     {
         name: "1:4",
-        file: "../af/recite/001004.mp3",
+        file: "https://github.com/a-faros/tadabbur/blob/main/af/recite/001004.mp3",
         duration: "00:01"
     },
     {
         name: "1:5",
-        file: "../af/recite/001005.mp3",
+        file: "https://github.com/a-faros/tadabbur/blob/main/af/recite/001005.mp3",
         duration: "00:01"
     },
     {
         name: "1:6",
-        file: "../af/recite/001006.mp3",
+        file: "https://github.com/a-faros/tadabbur/blob/main/af/recite/001006.mp3",
         duration: "00:01"
     },
     {
         name: "1:7",
-        file: "../af/recite/001007.mp3",
+        file: "https://github.com/a-faros/tadabbur/blob/main/af/recite/001007.mp3",
         duration: "00:01"
     },
 
