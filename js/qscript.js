@@ -36,12 +36,12 @@ var listAudio = [
     },
     {
         name: "1:1",
-        file: "https://github.com/a-faros/tadabbur/blob/main/af/recite/001001.mp3",
+        file: "./af/recite/001001.mp3",
         duration: "00:01"
     },
     {
         name: "1:2",
-        file: "https://github.com/a-faros/tadabbur/blob/main/af/recite/001002.mp3",
+        file: "./af/recite/001002.mp3",
         duration: "00:01"
     },
     {
